@@ -1,6 +1,6 @@
 # Файлы
-T-obrazov 1.py - Первое задание
-T-biblioteka.py - Второе задание
+- T-obrazov 1.py - Первое задание
+- T-biblioteka.py - Второе задание
 
 # T-Библиотека
 
