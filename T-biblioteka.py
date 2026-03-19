@@ -4,7 +4,6 @@ import os
 DATA_FILE = "library.json"
 
 class Book:
-    """Модель книги."""
     def __init__(self, title, author, genre, year, description):
         self.title = title
         self.author = author
