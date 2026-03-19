@@ -4,7 +4,7 @@ import os
 DATA_FILE = "library.json"
 
 class Book:
-    def init(self, title, author, genre, year, description):
+    def __init__(self, title, author, genre, year, description):
         self.title = title
         self.author = author
         self.genre = genre
@@ -39,7 +39,7 @@ class Book:
 
 
 class Library:
-    def init(self):
+    def __init__(self):
         self.books = []
         self.load_from_file()
 
