@@ -153,7 +153,6 @@ def display_books(books):
     print("="*100 + "\n")
 
 
-# Основной код (без отдельной функции main)
 library = Library()
 
 while True:
